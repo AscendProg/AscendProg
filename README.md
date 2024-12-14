@@ -3,6 +3,9 @@ Hola Soy un profesional apasionado y dedicado a la creación, diseño, desarroll
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F72222&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Desarrollador+apasionado+;De+los+juegos+;De+WhatsApp+;Espero+que+te+encuentres+bien+%E2%9C%85+%F0%9F%AB%B6+;La+constancia+vence+lo+que+la+dicha+no+alcanza%E2%9D%A4%EF%B8%8F;Desarrolladoonoce+m%C3%A1s+sobre+m%C3%AD+y+mis+proyectos;%C3%BAnete+y+s%C3%A9+parte+de+la+;Evolution+Global+%E2%9C%A8+;%C2%A1Juntos+podemos+llevar+;tecnolog%C3%ADa+al+siguiente+nivel!+%F0%9F%AB%B6" alt="Typing SVG" /></a>
 
+#### 🔗 My Youtube channel
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@AscendProg)
+
 ### 👉 Software & Tools
  
 <p>
