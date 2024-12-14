@@ -5,8 +5,13 @@ Hola Soy un profesional apasionado y dedicado a la creación, diseño, desarroll
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F72222&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Desarrollador+apasionado+;De+los+juegos+;De+WhatsApp+;Espero+que+te+encuentres+bien+%E2%9C%85+%F0%9F%AB%B6+;La+constancia+vence+lo+que+la+dicha+no+alcanza%E2%9D%A4%EF%B8%8F;Desarrolladoonoce+m%C3%A1s+sobre+m%C3%AD+y+mis+proyectos;%C3%BAnete+y+s%C3%A9+parte+de+la+;Evolution+Global+%E2%9C%A8+;%C2%A1Juntos+podemos+llevar+;tecnolog%C3%ADa+al+siguiente+nivel!+%F0%9F%AB%B6" alt="Typing SVG" /></a>
 
-#### 🔗 My Youtube channel
-[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@AscendProg)
+- **Softwares and Tools**:
+
+    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+    
 
 ### 👉 Software & Tools
  
